@@ -1,0 +1,20 @@
+.icon {
+	width:16px;
+	height:16px;
+}
+
+
+.red {
+	fill: #F00000;
+	color: #F00000;
+}
+
+.orange {
+	fill: #F06000;
+	color: #F06000;
+}
+
+.green {
+	fill: #009000;
+	color: #009000; 
+}
